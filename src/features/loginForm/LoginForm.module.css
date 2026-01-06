@@ -1,0 +1,21 @@
+.loginContainer {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px 30px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+
+  p {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 0.9rem;
+  }
+}

@@ -1,8 +1,8 @@
 export interface UserDetailsResponse {
-    username: string,
+  username: string;
 }
 
 export interface UserDetails {
-    username: string | null,
-    csrfToken: string | null,
+  username: string | null;
+  csrfToken: string | null;
 }
