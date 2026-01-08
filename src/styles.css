@@ -1,7 +1,7 @@
 :root {
-  color-scheme: light dark;
-  --primary-color: light-dark(#333, #fafafa);
-  --accent-color: light-dark(red, green);
-  --primary-background: light-dark(#e4e4e4, #121212);
-  --highlight-color: light-dark(hotpink, lime);
+    color-scheme: light dark;
+    --primary-color: light-dark(#333, #fafafa);
+    --accent-color: light-dark(red, green);
+    --primary-background: light-dark(#e4e4e4, #121212);
+    --highlight-color: light-dark(hotpink, lime);
 }
